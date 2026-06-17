@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Aryan Khandelwal 😊</h1>
 <h3 align="center">Btech CSE Student | AI/ML Enthusiast | Building & Learning!❤️</h3>
 
-<p align="left"> <a href="https://github.com/AryanKhandelwal5"><img src="https://www.pinterest.com/ideas/github-logo/950517191867/" alt="My GitHub 🚀" /></a> </p>
+<p align="left"> <a href="https://github.com/AryanKhandelwal5"><img src="https://www.pinterest.com/ideas/github-logo/950517191867/" alt="Recursion?" /></a> </p>
 
 - 🚀**Building strong foundations in Software Engineering, AI/ML, and Data Structures & Algorithms.**
 
