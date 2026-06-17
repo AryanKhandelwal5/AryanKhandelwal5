@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 😂 Fun fact : **I open GitHub to study & end up customizing my README bruhh 😅**
   
-- - 📫 Contact: **boipotato456@gmail.com**
+- 📫 Contact: **boipotato456@gmail.com**
 
 
 
