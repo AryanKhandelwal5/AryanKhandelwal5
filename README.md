@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Aryan Khandelwal 😊</h1>
-<h3 align="center">Btech CSE Student | AI/ML Enthusiast | Building & Learning!❤️</h3>
+<h3 align="center">Btech CSE Student | AI/ML Enthusiast | Building in Public </h3>
 
 <p align="left"> <a href="https://github.com/AryanKhandelwal5"><img src="https://www.pinterest.com/ideas/github-logo/950517191867/" alt="Recursion?" /></a> </p>
 
