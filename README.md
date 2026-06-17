@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Aryan Khandelwal 😊</h1>
-<h3 align="center">Btech CSE Undergraduate | AI/ML Enthusiast | Building & Learning!❤️</h3>
+<h3 align="center">Btech CSE Student | AI/ML Enthusiast | Building & Learning!❤️</h3>
 
 <p align="left"> <a href="https://github.com/AryanKhandelwal5"><img src="https://www.pinterest.com/ideas/github-logo/950517191867/" alt="My GitHub 🚀" /></a> </p>
 
-- 🚀I’m currently working on **Strengthening my foundation in Artificial Intelligence , Machine Learning & Data Science through consistent learning & hands-on practice.**
+- 🚀**Building strong foundations in Software Engineering, AI/ML, and Data Structures & Algorithms.**
 
 - 🌱 I’m currently learning **AI/ML Fundamentals , C/C++ & Python , Data Science & Analysis , A little bit of Competetive Programming.**
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about : **C/C++ or Python , AI/ML Basics , Data Science , C.P Strategies or learning new concepts across domains..**
 
-- 📫 How to reach me : **boipotato456@gmail.com**
+- 📫 Contact: **boipotato456@gmail.com**
 
 - 😂 Fun fact : **I open GitHub to study & end up customizing my README bruhh 😅**
 
