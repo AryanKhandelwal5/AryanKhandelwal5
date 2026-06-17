@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🚀**Building strong foundations in Software Engineering, AI/ML, and Data Structures & Algorithms.**
 
-- 🌱 **🌍 Interested in contributing to open-source ecosystems, collaborating on impactful projects, and learning from real-world engineering challenges..**
+- **🌍 Interested in contributing to open-source ecosystems, collaborating on impactful projects, and learning from real-world engineering challenges..**
 
 - 🤝 I’m looking to collaborate on **Beginner Friendly AI/ML or Data Science Projects , Problem Solving Based Repositories & learning-focused collaborations.**
 
