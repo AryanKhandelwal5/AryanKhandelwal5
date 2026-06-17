@@ -29,9 +29,9 @@ Here are some ideas to get you started:
   
 - **🔍 Interested in large-scale systems, cloud infrastructure, and developer tools.**
 
-- 📫 Contact: **boipotato456@gmail.com**
-
 - 😂 Fun fact : **I open GitHub to study & end up customizing my README bruhh 😅**
+  
+- - 📫 Contact: **boipotato456@gmail.com**
 
 
 
