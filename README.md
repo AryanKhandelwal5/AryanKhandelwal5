@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanKhandelwal5&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt=" Languages " /></p>
 
-<br>  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AryanKhandelwal5&show_icons=true&locale=en&count_private=true&cache_seconds=1800" alt=" Stats " /></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
