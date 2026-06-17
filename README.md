@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 - 🚀**I'm a Computer Science student passionate about building scalable software systems and solving challenging algorithmic problems.**
 
-- **🌍 Interested in contributing to open-source ecosystems, collaborating on impactful projects, and learning from real-world engineering challenges..**
-
 - **🚀 Focused on Software Engineering, Data Structures & Algorithms, Backend Development, and Distributed Systems.**
 
 - **💻 Strong interest in designing reliable, high-performance applications.**
