@@ -15,21 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Aryan Khandelwal 😊</h1>
-<h3 align="center">Btech CSE Student | AI/ML Enthusiast | Building in Public </h3>
+<h3 align="center"> Software Engineering Student | Competitive Programmer | Backend Developer </h3>
 
 <p align="left"> <a href="https://github.com/AryanKhandelwal5"><img src="https://www.pinterest.com/ideas/github-logo/950517191867/" alt="Recursion?" /></a> </p>
 
-- 🚀**Building strong foundations in Software Engineering, AI/ML, and Data Structures & Algorithms.**
+- 🚀**I'm a Computer Science student passionate about building scalable software systems and solving challenging algorithmic problems.**
 
 - **🌍 Interested in contributing to open-source ecosystems, collaborating on impactful projects, and learning from real-world engineering challenges..**
 
-- 🤝 I’m looking to collaborate on **Beginner Friendly AI/ML or Data Science Projects , Problem Solving Based Repositories & learning-focused collaborations.**
+- **🚀 Focused on Software Engineering, Data Structures & Algorithms, Backend Development, and Distributed Systems.**
 
-- 😊 I’m looking for help with **Deepening conceptual understanding of ML algorithms & optimizing problem-solving approaches.**
+- **💻 Strong interest in designing reliable, high-performance applications.**
 
-- 👨‍💻 All of my projects are available here at my GitHub ❤️
-
-- 💬 Ask me about : **C/C++ or Python , AI/ML Basics , Data Science , C.P Strategies or learning new concepts across domains..**
+- **🏆 Regularly solving algorithmic problems on LeetCode and Codeforces.**
+  
+- **🔍 Interested in large-scale systems, cloud infrastructure, and developer tools.**
 
 - 📫 Contact: **boipotato456@gmail.com**
 
