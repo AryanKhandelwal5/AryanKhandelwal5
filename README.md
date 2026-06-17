@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🚀**Building strong foundations in Software Engineering, AI/ML, and Data Structures & Algorithms.**
 
-- 🌱 I’m currently learning **AI/ML Fundamentals , C/C++ & Python , Data Science & Analysis , A little bit of Competetive Programming.**
+- 🌱 **🌍 Interested in contributing to open-source ecosystems, collaborating on impactful projects, and learning from real-world engineering challenges..**
 
 - 🤝 I’m looking to collaborate on **Beginner Friendly AI/ML or Data Science Projects , Problem Solving Based Repositories & learning-focused collaborations.**
 
