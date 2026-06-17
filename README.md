@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/AryanKhandelwal5"><img src="https://www.pinterest.com/ideas/github-logo/950517191867/" alt="Recursion?" /></a> </p>
 
-- 🚀**I'm a Computer Science student passionate about building scalable software systems and solving challenging algorithmic problems.**
+- **😊 I'm a Computer Science student passionate about building scalable software systems and solving challenging algorithmic problems.**
 
 - **🚀 Focused on Software Engineering, Data Structures & Algorithms, Backend Development, and Distributed Systems.**
 
